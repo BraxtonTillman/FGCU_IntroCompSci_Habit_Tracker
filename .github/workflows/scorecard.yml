@@ -74,4 +74,6 @@ jobs:
 
       - name: OSSF Scorecard action
         uses: ossf/scorecard-action@v2.3.1
+
+        [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/BraxtonTillman/FGCU_IntoCompSci_Habit_Tracker/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
             
