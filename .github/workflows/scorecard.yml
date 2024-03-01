@@ -25,7 +25,6 @@ jobs:
       # Needed to upload the results to code-scanning dashboard.
       security-events: write
       # Needed to publish results and get a badge (see publish_results below).
-      publish_results: true
       id-token: write
       # Uncomment the permissions below if installing in a private repository.
       # contents: read
